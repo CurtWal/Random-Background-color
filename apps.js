@@ -2,7 +2,7 @@
 console.log('working');
 
 // making an array with color names
-const bgColors = ["Lightblue", "Blue", "Orange", "Yellow", "Purple", "Grey", "Lightblue", "Green", "Yellowgreen","Pink","Red", "Lawngreen","Lightcoral"];
+const bgColors = ["Mediumvioletred","Mediumaquamarine","Mediumorchid","Mistyrose","Midnightblue","Fuchsia","HotPink","Pink","Lime","BlueViolet","Teal","Brown","Aquamarine","Lightblue", "Blue", "Orange", "Yellow", "Purple", "Grey", "Lightblue", "Green", "Yellowgreen","Pink","Red", "Lawngreen","Lightcoral"];
 
 // grabbing the .color id from the html doc
 const color = document.querySelector(".color");
